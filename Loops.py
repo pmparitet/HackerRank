@@ -6,7 +6,7 @@ for i in range(n):
     print(i)
 
 
-# Чистый код
+# Код автора
 
 # for i in range(int(raw_input())):
 #     print i**2
